@@ -7,4 +7,4 @@
 
 APP端采用涂鸦云端配置，简直太方便
 
-B站视频演示
+B站视频演示：https://www.bilibili.com/video/BV1Sy4y1t7PH/
